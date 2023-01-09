@@ -1,0 +1,11 @@
+{
+	"daily_event_daily_sign": { "hour": 0, "minute": 0, "second": 0},
+	"daily_event_test1": { "hour": 3, "minute": 45, "second": 2},
+	"daily_event_test2": { "hour": 3, "minute": 45, "second": 2},
+	"daily_event_test3": { "hour": 3, "minute": 45, "second": 2},
+	"daily_event_test4": { "hour": 17, "minute": 44, "second": 0},
+	"daily_event_test5": { "hour": 17, "minute": 46, "second": 0},
+	"daily_event_test6": { "hour": 17, "minute": 47, "second": 0},
+	"daily_event_test7": { "hour": 17, "minute": 48, "second": 0},
+	"daily_event_test8": { "hour": 17, "minute": 48, "second": 0}
+}
